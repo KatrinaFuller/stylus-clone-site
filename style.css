@@ -4,3 +4,11 @@
   background-size: cover;
 }
 
+.blue-row{
+  background-color: #469ae0;
+  min-height: 40vh;
+}
+
+.font-size{
+  font-size: 12px;
+}
