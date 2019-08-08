@@ -12,3 +12,12 @@
 .font-size{
   font-size: 12px;
 }
+
+.white-row{
+  background-color: white;
+  min-height: 30vh;
+}
+
+.button{
+  font-size: 10px;
+}
