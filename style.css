@@ -1,5 +1,5 @@
 .image-row{
-  min-height: 40vh;
+  min-height: 44vh;
   background-image: url('https://entreprenoria.com/wp-content/uploads/2016/04/The-Pros-and-Cons-of-Being-Your-Own-Boss-702x336.jpg');
   background-size: cover;
 }
@@ -26,4 +26,9 @@
   min-height: 40vh;
   background-image: url('https://nampapolice.org/ImageRepository/Document?documentID=5065');
   background-size: cover;
+}
+
+.black-row{
+  background-color: black;
+  min-height: 10vh;
 }
